@@ -84,11 +84,7 @@ nav:
       - BLOG/Network/learning.md
       - BLOG/Network/nouns.md
     - 数学:
-      - BLOG/Math/latex.md
-      - BLOG/Math/linear.md
-      - BLOG/Math/taylor.md
-      - BLOG/Math/max-pr.md
-      - BLOG/Math/sympy-det.md
+
     - 物理:
       - BLOG/Physics/guass-stokes.md
       - BLOG/Physics/electromagnetics.md
