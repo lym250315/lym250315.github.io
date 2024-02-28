@@ -384,7 +384,7 @@ theme:
   icon:
     # [添加 GitHub 仓库]
     # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#repository-icon
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/git-alt
 # [点击按钮跳转至 GitHub 修改 Markdown 源文件]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#code-actions
 edit_uri: edit/main/docs/
@@ -396,7 +396,7 @@ repo_name: lym250315.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 陆英茂 
+copyright: 陆英茂 CC-BY-4.0
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
