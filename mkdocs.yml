@@ -396,7 +396,7 @@ repo_name: lym250315.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 陆英茂 CC-BY-4.0
+copyright: 陆英茂 
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
@@ -404,9 +404,9 @@ extra:
   # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
   # name 会在鼠标悬浮时提示
   social: # icons
-    - name: GitHub | Yang-Xijie
+    - name: GitHub | lym250315
       icon: fontawesome/brands/github
-      link: https://github.com/Yang-Xijie
+      link: https://github.com/lym250315
     - name: Bilibili | 杨希杰619
       icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/24502827
