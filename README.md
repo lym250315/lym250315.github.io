@@ -1,6 +1,6 @@
-# 杨希杰的个人网站
+# 陆英茂的个人网站
 
-<https://yang-xijie.github.io>
+<https://lym250315.github.io>
 
 - 生成 [MkDocs](https://www.mkdocs.org) 
 - 主题 [Material](https://github.com/squidfunk/mkdocs-material)
