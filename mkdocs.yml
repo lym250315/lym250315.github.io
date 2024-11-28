@@ -1,9 +1,9 @@
 # [Info]
 # 左上角标题
-site_name: 陆英茂的个人网站
+site_name: lym的个人网站
 site_url: https://lym250315.github.io
-site_author: 陆英茂
-site_description: 陆英茂的个人网站
+site_author: lym
+site_description: lym的个人网站
 
 # [Navigtion]
 nav:
@@ -115,7 +115,7 @@ repo_name: lym250315.github.io
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 陆英茂 CC-BY-4.0
+copyright: lym CC-BY-4.0
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
@@ -126,21 +126,21 @@ extra:
     - name: GitHub | lym250315
       icon: fontawesome/brands/github
       link: https://github.com/lym250315
-    - name: Bilibili | 杨希杰619
+    - name: Bilibili | 无
       icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-    - name: 小杰答疑群 QQ 796233390
+      link: https://space.bilibili.com
+    - name: 交流群 无
       icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
-    - name: 小杰水群 QQ 824114857
-      icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
-    - name: 小红书 | 杨希杰
+#      link: https://yang-xijie.github.io/ME/qq-groups/
+#    - name: 小杰水群 QQ 824114857
+#      icon: fontawesome/brands/qq
+#      link: https://yang-xijie.github.io/ME/qq-groups/
+    - name: 小红书 | 无
       icon: fontawesome/solid/images
-      link: https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369
+      link: https://www.xiaohongshu.com
     - name: 打赏支持
       icon: fontawesome/solid/mug-saucer
-      link: https://yang-xijie.github.io/ME/support/
+#      link: https://yang-xijie.github.io/ME/support/
 
 # [Extensions]
 plugins:
