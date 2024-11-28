@@ -20,13 +20,14 @@ nav:
     - GPU:
       - RESEARCH/Gpu/gpu.md
       - RESEARCH/Gpu/cuda.md
+        - CG:
+          - RESEARCH/CG/games101.md
 
       
 #################会计学习
   - 会计:
     - CPA/index.md
-    - CG:
-      - RESEARCH/CG/games101.md
+
     
 #################转载模块
   - 转载:
