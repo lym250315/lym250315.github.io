@@ -26,17 +26,17 @@ nav:
   - CPA:
     - CPA/index.md
     - 会计:
-      - REPRODUCE/speech/tim-cook-at-duke.md
+      - CPA/accounting/Accounting.md
     - 税法:
-      - REPRODUCE/book/harford-occupation-choice.md
+      - CPA/taxlaw/tax law.md
     - 经济法:
-      - REPRODUCE/article/proses.md
+      - CPA/elaw/economic law.md
     - 审计:
-      - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
+      - CPA/audit/audit.md
     - 财务成本管理:
-      - REPRODUCE/lyrics/watagumo.md
+      - CPA/fcm/financial cost management.md
     - 公司战略与风险管理:
-      - REPRODUCE/poem/poems.md
+      - CPA/csrm/corporate strategy and risk management.md
 
     
 #################转载模块
