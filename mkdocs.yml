@@ -23,8 +23,20 @@ nav:
 
       
 #################会计学习
-  - 会计:
+  - CPA:
     - CPA/index.md
+    - 会计:
+      - REPRODUCE/speech/tim-cook-at-duke.md
+    - 税法:
+      - REPRODUCE/book/harford-occupation-choice.md
+    - 经济法:
+      - REPRODUCE/article/proses.md
+    - 审计:
+      - REPRODUCE/blog/how-to-ask-questions-the-smart-way.md
+    - 财务成本管理:
+      - REPRODUCE/lyrics/watagumo.md
+    - 公司战略与风险管理:
+      - REPRODUCE/poem/poems.md
 
     
 #################转载模块
