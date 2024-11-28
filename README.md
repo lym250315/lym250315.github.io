@@ -1,4 +1,4 @@
-# 陆英茂的个人网站
+# lym的个人网站
 
 <https://lym250315.github.io>
 
